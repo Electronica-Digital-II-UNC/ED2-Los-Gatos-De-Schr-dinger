@@ -1,0 +1,13 @@
+# Excluir configuraciones locales del usuario
+**/nbproject/private/
+
+# Excluir carpetas de compilación y simulación
+**/build/
+**/dist/
+
+# Excluir reportes y temporales del ensamblador MPASM
+*.err
+*.hex
+*.lst
+*.cof
+*.cof
